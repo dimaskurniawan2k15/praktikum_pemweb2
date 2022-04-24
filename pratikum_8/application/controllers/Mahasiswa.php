@@ -7,8 +7,8 @@ class Mahasiswa extends CI_Controller{
 
         // buat objek model 1 dan nilainya
         $this->mhs1->id=1;
-        $this->mhs1->nim="0110221107";
-        $this->mhs1->nama='Daffa Bagus Radityo';
+        $this->mhs1->nim="0110221113";
+        $this->mhs1->nama='Dimas Kurniawan';
         $this->mhs1->gender='L';
         $this->mhs1->ipk=3.85;
 
